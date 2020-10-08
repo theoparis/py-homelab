@@ -1,3 +1,0 @@
-# Python Homelab Panel
-
-WIP
